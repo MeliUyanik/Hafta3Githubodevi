@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\forvewhiledongusuilesayitoplamaoyunu\bin\Debug\forvewhiledongusuilesayitoplamaoyunu.exe.config
+C:\Users\melih\source\repos\forvewhiledongusuilesayitoplamaoyunu\bin\Debug\forvewhiledongusuilesayitoplamaoyunu.exe
+C:\Users\melih\source\repos\forvewhiledongusuilesayitoplamaoyunu\bin\Debug\forvewhiledongusuilesayitoplamaoyunu.pdb
+C:\Users\melih\source\repos\forvewhiledongusuilesayitoplamaoyunu\obj\Debug\forvewhiledongusuilesayitoplamaoyunu.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\forvewhiledongusuilesayitoplamaoyunu\obj\Debug\forvewhiledongusuilesayitoplamaoyunu.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\forvewhiledongusuilesayitoplamaoyunu\obj\Debug\forvewhiledongusuilesayitoplamaoyunu.exe
+C:\Users\melih\source\repos\forvewhiledongusuilesayitoplamaoyunu\obj\Debug\forvewhiledongusuilesayitoplamaoyunu.pdb

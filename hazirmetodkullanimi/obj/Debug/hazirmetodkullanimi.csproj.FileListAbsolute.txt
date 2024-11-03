@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\hazirmetodkullanimi\bin\Debug\hazirmetodkullanimi.exe.config
+C:\Users\melih\source\repos\hazirmetodkullanimi\bin\Debug\hazirmetodkullanimi.exe
+C:\Users\melih\source\repos\hazirmetodkullanimi\bin\Debug\hazirmetodkullanimi.pdb
+C:\Users\melih\source\repos\hazirmetodkullanimi\obj\Debug\hazirmetodkullanimi.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\hazirmetodkullanimi\obj\Debug\hazirmetodkullanimi.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\hazirmetodkullanimi\obj\Debug\hazirmetodkullanimi.exe
+C:\Users\melih\source\repos\hazirmetodkullanimi\obj\Debug\hazirmetodkullanimi.pdb

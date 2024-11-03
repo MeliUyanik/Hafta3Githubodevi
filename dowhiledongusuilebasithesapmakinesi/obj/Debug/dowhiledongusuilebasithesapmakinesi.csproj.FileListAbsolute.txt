@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\dowhiledongusuilebasithesapmakinesi\bin\Debug\dowhiledongusuilebasithesapmakinesi.exe.config
+C:\Users\melih\source\repos\dowhiledongusuilebasithesapmakinesi\bin\Debug\dowhiledongusuilebasithesapmakinesi.exe
+C:\Users\melih\source\repos\dowhiledongusuilebasithesapmakinesi\bin\Debug\dowhiledongusuilebasithesapmakinesi.pdb
+C:\Users\melih\source\repos\dowhiledongusuilebasithesapmakinesi\obj\Debug\dowhiledongusuilebasithesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\dowhiledongusuilebasithesapmakinesi\obj\Debug\dowhiledongusuilebasithesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\dowhiledongusuilebasithesapmakinesi\obj\Debug\dowhiledongusuilebasithesapmakinesi.exe
+C:\Users\melih\source\repos\dowhiledongusuilebasithesapmakinesi\obj\Debug\dowhiledongusuilebasithesapmakinesi.pdb

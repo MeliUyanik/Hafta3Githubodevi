@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\foreachdongusuilelisteelemanlariniyazdirma\bin\Debug\foreachdongusuilelisteelemanlariniyazdirma.exe.config
+C:\Users\melih\source\repos\foreachdongusuilelisteelemanlariniyazdirma\bin\Debug\foreachdongusuilelisteelemanlariniyazdirma.exe
+C:\Users\melih\source\repos\foreachdongusuilelisteelemanlariniyazdirma\bin\Debug\foreachdongusuilelisteelemanlariniyazdirma.pdb
+C:\Users\melih\source\repos\foreachdongusuilelisteelemanlariniyazdirma\obj\Debug\foreachdongusuilelisteelemanlariniyazdirma.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\foreachdongusuilelisteelemanlariniyazdirma\obj\Debug\foreachdongusuilelisteelemanlariniyazdirma.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\foreachdongusuilelisteelemanlariniyazdirma\obj\Debug\foreachdongusuilelisteelemanlariniyazdirma.exe
+C:\Users\melih\source\repos\foreachdongusuilelisteelemanlariniyazdirma\obj\Debug\foreachdongusuilelisteelemanlariniyazdirma.pdb

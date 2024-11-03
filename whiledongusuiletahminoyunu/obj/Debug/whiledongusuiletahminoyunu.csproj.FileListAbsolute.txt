@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\whiledongusuiletahminoyunu\bin\Debug\whiledongusuiletahminoyunu.exe.config
+C:\Users\melih\source\repos\whiledongusuiletahminoyunu\bin\Debug\whiledongusuiletahminoyunu.exe
+C:\Users\melih\source\repos\whiledongusuiletahminoyunu\bin\Debug\whiledongusuiletahminoyunu.pdb
+C:\Users\melih\source\repos\whiledongusuiletahminoyunu\obj\Debug\whiledongusuiletahminoyunu.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\whiledongusuiletahminoyunu\obj\Debug\whiledongusuiletahminoyunu.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\whiledongusuiletahminoyunu\obj\Debug\whiledongusuiletahminoyunu.exe
+C:\Users\melih\source\repos\whiledongusuiletahminoyunu\obj\Debug\whiledongusuiletahminoyunu.pdb

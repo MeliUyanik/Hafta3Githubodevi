@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\fordongusuilefibonacciserisi\bin\Debug\fordongusuilefibonacciserisi.exe.config
+C:\Users\melih\source\repos\fordongusuilefibonacciserisi\bin\Debug\fordongusuilefibonacciserisi.exe
+C:\Users\melih\source\repos\fordongusuilefibonacciserisi\bin\Debug\fordongusuilefibonacciserisi.pdb
+C:\Users\melih\source\repos\fordongusuilefibonacciserisi\obj\Debug\fordongusuilefibonacciserisi.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\fordongusuilefibonacciserisi\obj\Debug\fordongusuilefibonacciserisi.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\fordongusuilefibonacciserisi\obj\Debug\fordongusuilefibonacciserisi.exe
+C:\Users\melih\source\repos\fordongusuilefibonacciserisi\obj\Debug\fordongusuilefibonacciserisi.pdb

@@ -1,0 +1,7 @@
+C:\Users\melih\source\repos\arraylistilealfabetiksiralama\bin\Debug\arraylistilealfabetiksiralama.exe.config
+C:\Users\melih\source\repos\arraylistilealfabetiksiralama\bin\Debug\arraylistilealfabetiksiralama.exe
+C:\Users\melih\source\repos\arraylistilealfabetiksiralama\bin\Debug\arraylistilealfabetiksiralama.pdb
+C:\Users\melih\source\repos\arraylistilealfabetiksiralama\obj\Debug\arraylistilealfabetiksiralama.csproj.AssemblyReference.cache
+C:\Users\melih\source\repos\arraylistilealfabetiksiralama\obj\Debug\arraylistilealfabetiksiralama.csproj.CoreCompileInputs.cache
+C:\Users\melih\source\repos\arraylistilealfabetiksiralama\obj\Debug\arraylistilealfabetiksiralama.exe
+C:\Users\melih\source\repos\arraylistilealfabetiksiralama\obj\Debug\arraylistilealfabetiksiralama.pdb
